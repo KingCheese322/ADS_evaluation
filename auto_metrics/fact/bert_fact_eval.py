@@ -26,7 +26,6 @@ class NLIFactEvaluator:
             probs = torch.nn.functional.softmax(outputs.logits, dim=1)
         
         return probs[0].cpu().numpy()
-
     
     def evaluate_single_pair(self, pred_row, ref_row):
         pred_facts = json.loads(pred_row['facts_content'])
