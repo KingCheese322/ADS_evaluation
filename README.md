@@ -9,4 +9,5 @@ Dr. Chuan Hong: chuan.hong@duke.edu
 <!-- Citation -->
 ## Citation
 Wang, H., Yang, R., Alwakeel, M. et al. An evaluation framework for ambient digital scribing tools in clinical applications. npj Digit. Med. 8, 358 (2025). <br>
+
 https://doi.org/10.1038/s41746-025-01622-1
