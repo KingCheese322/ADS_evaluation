@@ -4,6 +4,6 @@ Ambient digital scribing (ADS) tools alleviate clinician documentation burden, r
 
 <!-- Citation -->
 ## Citation
-Wang, H., Yang, R., Alwakeel, M., Kayastha, A., Chowdhury, A., Biro, J.M., Sorrentino, A.D., Handley, J.L., Hantzmon, S., Bessias, S. and Economou-Zavlanos, N.J., 2025. An evaluation framework for ambient digital scribing tools in clinical applications. npj Digital Medicine, 8(1), pp.1-13. <br>
+Wang, H., Yang, R., Alwakeel, M., Kayastha, A., Chowdhury, A., Biro, J. M., Sorrentino, A. D., Handley, J. L., Hantzmon, S., Bessias, S., Economou-Zavlanos, N. J., Bedoya, A., Agrawal, M., Ratwani, R. M., Poon, E. G., Pencina, M. J., Pollak, K. I., & Hong, C. (2025). An evaluation framework for ambient digital scribing tools in clinical applications. npj Digital Medicine, 8, Article 358.  <br>
 
 https://doi.org/10.1038/s41746-025-01622-1
